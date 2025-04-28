@@ -1,38 +1,43 @@
-# My-Portfolio
-This repository contains the code for my personal portfolio website, which showcases my skills, projects, and contact information through a clean and responsive design. The website is built using modern web technologies and serves as a platform to present my work and connect with potential collaborators or employers.
-Features
-Project Showcase: A selection of the projects I have worked on, including detailed descriptions, technologies used, and links to the code repositories.
-About Me: A brief introduction to who I am, my background, and my passion for development.
-Contact Information: Easy access to reach out to me for any inquiries or opportunities.
-Responsive Design: Optimized for viewing across various devices, from desktops to mobile phones.
-Technologies Used
-Frontend: HTML, CSS, JavaScript
-Deployment: GitHub Pages
-Version Control: Git, GitHub,VS code
-Installation
+# Portfolio Website
+
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experience as a developer. Here, you can explore my past work, learn more about the technologies I use, and get in touch with me for potential collaborations or opportunities.
+
+## Features
+
+- **Project Showcase**: A selection of the projects I have worked on, including detailed descriptions, technologies used, and links to the code repositories.
+- **About Me**: A brief introduction to who I am, my background, and my passion for development.
+- **Contact Information**: Easy access to reach out to me for any inquiries or opportunities.
+- **Responsive Design**: Optimized for viewing across various devices, from desktops to mobile phones.
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Deployment**: GitHub Pages
+- **Version Control**: Git, GitHub , VS Code
+
+## Installation
+
 To clone the repository and run the website locally:
 
-Clone the repository:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/GAGANG1205/Portfolio.git
+    ```
 
-git clone https://github.com/GAGANG1205/My-Portfolio.git
-Navigate into the project directory:
+2. Navigate into the project directory:
+    ```bash
+    cd portfolio-website
+    ```
 
-cd portfolio-website
-Open the index.html file in your browser:
+3. Open the `index.html` file in your browser:
+    ```bash
+    open index.html  # for macOS
+    # or just double-click index.html on Windows
+    ```
 
-open index.html  # for macOS
-# or just double-click index.html on Windows
-Project Breakdown
-1. API Projects
-Developed an API for financial calculations related to Apple product purchases, which includes EMI calculations and benefits analysis.
-Used Flask to create a RESTful API and integrated Excel data for financial calculations.
-2. Smart Search Engine
-Created a smart search engine for the IVR team, utilizing fuzzy string matching algorithms for improved search results.
-Implemented using Python and integrated with a web-based frontend for better user experience.
-3. Web Scraping Projects
-Built web scrapers using BeautifulSoup and Selenium to collect competitive pricing and product details for the e-commerce business.
-Contact
+## Contact
+
 If you'd like to get in touch with me for collaborations, job opportunities, or feedback, feel free to reach out:
 
-Email: gagangupta1205@gmail.com
-
+- **Email**: gagangupta1205@gmail.com
+- [LinkedIn Profile](https://www.linkedin.com/in/gagan-gupta-360359262/)
