@@ -14,7 +14,7 @@ To clone the repository and run the website locally:
 
 Clone the repository:
 
-git clone https://github.com/namanjain2012/Portfolio.git
+git clone https://github.com/GAGANG1205/My-Portfolio.git
 Navigate into the project directory:
 
 cd portfolio-website
